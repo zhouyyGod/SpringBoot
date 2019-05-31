@@ -1,8 +1,5 @@
 package com.zyy.demo2.model.response;
 
-/**
- * Create by ZYY on 2019/5/28 14:33
- */
 public class QueryResponseResult{
 
     Object data;

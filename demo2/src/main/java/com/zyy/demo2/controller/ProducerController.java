@@ -7,9 +7,6 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-/**
- * Create by ZYY on 2019/5/28 14:25
- */
 @RestController
 @RequestMapping("producer")
 public class ProducerController {
